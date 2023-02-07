@@ -8,6 +8,7 @@
 -   If the cards match, both cards stay flipped over.
 -   If the cards do not match, both cards are flipped face down.
 -   The game ends once all cards have been correctly matched.
+-   You can as well click the refresh button to start over at anytime
 
 **How to run**
 - Clone or Download the Zip file of the respository
