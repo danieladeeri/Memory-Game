@@ -13,3 +13,6 @@
 - Clone or Download the Zip file of the respository
 - Open  `index.html`  file to view the project in your browser.
 - Enjoy!
+
+
+### [or Click here to run the game](https://danieladeeri.github.io/Memory-Game/)
